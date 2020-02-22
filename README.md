@@ -1,5 +1,6 @@
 # BMI-calculator
+Find out more about BMI index.
 
 self-study
 
-JS, HTML, CSS
+HTML, CSS, JS
